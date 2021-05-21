@@ -1,0 +1,14 @@
+C:\Users\Vebi\source\repos\SistemKasirOOPBased\SistemKasirOOPBased\bin\Debug\SistemKasirOOPBased.exe.config
+C:\Users\Vebi\source\repos\SistemKasirOOPBased\SistemKasirOOPBased\bin\Debug\SistemKasirOOPBased.exe
+C:\Users\Vebi\source\repos\SistemKasirOOPBased\SistemKasirOOPBased\bin\Debug\SistemKasirOOPBased.pdb
+C:\Users\Vebi\source\repos\SistemKasirOOPBased\SistemKasirOOPBased\obj\Debug\SistemKasirOOPBased.csprojAssemblyReference.cache
+C:\Users\Vebi\source\repos\SistemKasirOOPBased\SistemKasirOOPBased\obj\Debug\SistemKasirOOPBased.csproj.CoreCompileInputs.cache
+C:\Users\Vebi\source\repos\SistemKasirOOPBased\SistemKasirOOPBased\obj\Debug\SistemKasirOOPBased.exe
+C:\Users\Vebi\source\repos\SistemKasirOOPBased\SistemKasirOOPBased\obj\Debug\SistemKasirOOPBased.pdb
+C:\Users\Vebi\Downloads\Metrodata\C#\SistemKasirOOPBased\SistemKasirOOPBased\obj\Debug\SistemKasirOOPBased.csprojAssemblyReference.cache
+C:\Users\Vebi\Downloads\Metrodata\C#\SistemKasirOOPBased\SistemKasirOOPBased\obj\Debug\SistemKasirOOPBased.csproj.CoreCompileInputs.cache
+C:\Users\Vebi\Downloads\Metrodata\C#\SistemKasirOOPBased\SistemKasirOOPBased\obj\Debug\SistemKasirOOPBased.exe
+C:\Users\Vebi\Downloads\Metrodata\C#\SistemKasirOOPBased\SistemKasirOOPBased\obj\Debug\SistemKasirOOPBased.pdb
+C:\Users\Vebi\Downloads\Metrodata\C#\SistemKasirOOPBased\SistemKasirOOPBased\bin\Debug\SistemKasirOOPBased.exe.config
+C:\Users\Vebi\Downloads\Metrodata\C#\SistemKasirOOPBased\SistemKasirOOPBased\bin\Debug\SistemKasirOOPBased.exe
+C:\Users\Vebi\Downloads\Metrodata\C#\SistemKasirOOPBased\SistemKasirOOPBased\bin\Debug\SistemKasirOOPBased.pdb
